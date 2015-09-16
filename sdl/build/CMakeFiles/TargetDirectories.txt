@@ -1,0 +1,1 @@
+/home/stanislav/projects/sdl/build/CMakeFiles/test.dir

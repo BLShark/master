@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/test.dir/Game.cpp.o CMakeFiles/test.dir/main.cpp.o  -o test -rdynamic -lSDL2 -lpthread -lSDL2_image -lSDL2 -lpthread -lSDL2 -lpthread -lSDL2_image 
