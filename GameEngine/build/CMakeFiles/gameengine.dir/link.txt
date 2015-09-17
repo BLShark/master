@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/gameengine.dir/Engine.o CMakeFiles/gameengine.dir/main.o  -o gameengine -rdynamic -lSDL2 -lpthread -lSDL2_image -lSDL2 -lpthread -lSDL2_image 
